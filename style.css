@@ -1,0 +1,13 @@
+body{background-color:#222;font-size:14px;font-family:Helvetica Neue,Helvetica,Arial;color:#999;line-height:1.75em}
+
+a{color:#71166a}
+
+a:hover{color:#801877}
+
+h1{font-weight:500;font-size:28px;text-align:center}
+
+#detail{padding-top:1%;max-width:700px;margin:0 auto}
+
+#logo{padding-top:2%;text-align:center;margin:0 auto}
+
+#logo img{width:200px;margin-top:20px}
